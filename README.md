@@ -1,2 +1,2 @@
-# Repo_pruebas
-Repo ejemplo
+####  Repo_pruebas
+Repositorio para ejemplos y prácticas
